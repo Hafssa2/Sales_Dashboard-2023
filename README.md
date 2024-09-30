@@ -26,7 +26,7 @@ The dataset captures sales data across multiple years and includes metrics relat
 
 A snap of KPI Sales,
 
-![KPI Sales](https://github.com/user-attachments/assets/d07d07a2-baae-423f-803d-fd61ddc8e7d3)
+![KPI Sales](https://github.com/user-attachments/assets/764549f0-3c43-4639-a751-25aa71c0766b)
 - The **KPI Sales** sheet highlights the overall sales performance, displaying total sales over time. It allows users to see high-level metrics at a glance.
 
 you can explore the KPI Profit and KPI Quantity on the project file.
@@ -48,7 +48,7 @@ you can explore the KPI Profit and KPI Quantity on the project file.
 
 Snap of Subcategory_Comparison,
 
-![Subcategory_Comparison](https://github.com/user-attachments/assets/eecabd9c-cfae-4c6a-bf8c-b036d793d22a)
+![Subcategory_Comparison](https://github.com/user-attachments/assets/5fc4e5b9-7d0f-493b-bcf1-0894afdfb3e0)
 - The **Subcategory_Comparison** sheet focuses on product-specific metrics, showing sales and profit by product category and sub-category. It identifies the best-selling products and high-profit items..
 
 
@@ -57,7 +57,7 @@ Snap of Subcategory_Comparison,
 
 Snap of Weekly Trends,
 
-![Weekly Trends](https://github.com/user-attachments/assets/4975b3f5-1e5a-4813-9ea8-efb78816282b)
+![Weekly Trends](https://github.com/user-attachments/assets/8978009a-e39e-454a-9f61-7eb9ac83a982)
 - The **Weekly Trends** sheet tracks sales (or other key metrics) on a weekly basis, highlighting fluctuations and patterns such as seasonal spikes or dips. It helps identify short-term performance trends and enables quick responses to weekly changes in the data.
 
 ### 6. **Interactive Filters**
